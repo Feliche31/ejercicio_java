@@ -11,6 +11,8 @@ package com.mycompany.ejercicio_formulario;
 public class Ejercicio_formulario {
 
     public static void main(String[] args) {
+        conexion ca = new conexion();
+        ca.conexion();
        
     }
 }
